@@ -1,0 +1,28 @@
+{
+  "name": "shoval-suissa_313527111_ex6",
+  "version": "1.0.0",
+  "description": "This is my web server for analysing wines.json file for my 6th assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahzaib342/Node-Wine-Analyser-API.git"
+  },
+  "keywords": [
+    "Node",
+    "Wine",
+    "Analyser"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahzaib342/Node-Wine-Analyser-API/issues"
+  },
+  "homepage": "https://github.com/Shahzaib342/Node-Wine-Analyser-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
